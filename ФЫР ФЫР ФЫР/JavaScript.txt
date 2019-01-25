@@ -1,0 +1,123 @@
+		типы данных
+string, number, boolean, null, undefined;
+
+		вывод на консоль
+console.log();
+
+		операторы
+&& - и;
+|| - или;
+! - не;
+
+		действия с элементами
+str.toUpperCase()  - верхний регистр букв
+str.toLowerCase()  - нижний регистр букв
+str.slice(2,5)  - выделение промежутка
+str.indexOf("a")  - нахождение первого символа		
+str.lastIndexOf("a")  - нахождение последнего символа	
+str.replace('J', 'ooo')  - смена символа 
+str.trim()  - убрать все символы
+str.repeat(5)  - повторение
+str.charCodeAt(4)  - юникод
+str.charAt(4)  - проверка символа
+str.includes("J")  - есть ли символ
+str.endsWith("ipt")  - заканчиваеться ли на что-то
+str.lenght  - длина строки
+
+		массивы
+var cats = ["timka", "kesha", "sobaka"];  - массив
+var dogs = ["graf", "fyntic", "cot"];  - массив
+console.log(cats);
+console.log(cats[1]);  - вызов первого элемента массива
+cats[1] = "qwerty";  - есть ли это слово
+console.log(cats.length);  - длина 
+console.log(cats[cats.length - 1]);  - последний элемент
+console.log(cats.push("may"));  - добавить элемент в конец
+console.log(cats.unshift("tochnoCot"));  - добавить элемент в начало
+console.log(cats.pop());  - удалить последний элемент
+console.log(cats.shift());  - удалить первый элемент
+var all = cats.concat(dogs);  - соединяет 2 массива
+console.log(cats.indexOf("sobaka"));  - возвращает первый индекс найденного элемента
+console.log(cats.lastIndexOf("sobaka"));  - возвращает последний индекс найденного элемента
+console.log(cats.join(" - "));  - ставит между всеми элементами массива " - "
+		
+		объекты
+var cat = {legs: 4,name: "timka",color: "white"};
+console.log(cat);
+scores.jimmy +=3;
+console.log(Object.keys(cat));
+console.log(Object.values(cat));
+var cars = [{model: 'Audi A5', color: 'white'}];
+
+		if else
+var name = prompt();
+if (name === 'Sasha') {
+    console.log('Eto i!');
+}
+else if (name === 'Petro') {
+    console.log('Petro kak жизнь');
+}
+else if (name === 'Dima') {
+    console.log('poshel naxer Dima');
+}
+else if (name === 'Misha') {
+    console.log('Zdelal laby');
+}
+else {
+    console.log('Yidi chychak');
+}
+
+		цыклы
+	while
+var number = 0;
+while (number < 10) {
+    console.log("Here is " + number);
+    number++;
+}
+console.log("done");
+
+	do while
+var number1 = 1;
+do {
+    console.log("Here is " + number1);
+    number1++;
+}
+while (number1 < 1);
+
+	for
+for (var number2 = 0; number2 < 10; number2++) {
+    console.log("Here is " + number2);
+}
+
+		функции 
+var ourFirstFunction = function (name) {
+    console.log("Hello " + name + "!");
+};
+
+		switch case
+switch (1) {
+    case 1: console.log("AAA");
+        break;
+    case 2: console.log("BBB");
+        break;
+    default: console.log("Default code");
+        break;
+}
+
+		for in
+var obj = {
+    a: 2,
+    b: 3,
+    c: 1
+};
+console.log(obj);
+
+for (var key in obj) {
+    console.log("Это ключ: " + key);
+    console.log("Это его значение: " + obj[key]);
+}
+
+		самовызывающая функция
+(function () {
+    console.log("AAAA");
+})();

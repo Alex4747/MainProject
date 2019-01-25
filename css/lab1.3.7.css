@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#main {
+
+}
+.blocks{
+    width: 25%;
+    box-sizing: border-box;
+    height: 200px;
+    text-align: left;
+    background-color: darkgrey;
+    display: inline-block;
+    margin-right: -4px;
+    vertical-align: middle;
+    padding: 30px;
+}
+
+.two {
+    top: -100px;
+    background-color: lightgrey;
+}
+
+

@@ -1,0 +1,45 @@
+		сброс margin
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+		убираем 4px
+margin-right: -4px;
+
+		круг
+#circle {
+	width: 100px;
+	height: 100px;
+	background: red;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+}
+
+		увеличение анимации с центральной точки
+#sun:hover {
+    transform: scale(2.0);
+}
+
+		чисто процентное значение которое хочу
+box-sizing: border-box;
+
+		набор слов
+lorem(цыфра) tab
+
+		эффект глубины
+background: #e2e1d7 url(../img/input-bg.gif) repeat-x top left;
+border-bottom: 1px solid #fff;   
+border-right: 1px solid #fff; 
+
+		компилирует less в css git bush
+lessc app.less app.css
+
+		отцентрирование по центру
+margin: 0 auto;
+
+		чисто в центре
+display: flex;
+justify-content: center;
+align-items: center;

@@ -1,0 +1,86 @@
+@colorGreen: green;
+@colorText: white;
+@widthButtons: 200px;
+@heightButtons: 40px;
+@displayInline: flex;
+@textCenter: center;
+@margin-left: 100px;
+@margin-left-checkbox: 120px;
+@margin-top-checkbox: 100px;
+@sans-serif: sans-serif;
+@margin-left-btn: 50px;
+@green-gradient: linear-gradient(to bottom, #23b670 60%, #239d57 60%, #239d57 100%);
+@yellow-gradient: linear-gradient(to bottom, #f2ca0e 60%, #f2b10e 60%, #f2b10e 100%);
+@red-gradient: linear-gradient(to bottom, #e95e4f 60%, #e94536 60%, #e94536 100%);
+@blue-gradient: linear-gradient(to bottom, #258cc0 60%, #2573a7 60%, #2573a7 100%);
+@black-gradient: linear-gradient(to bottom, #575e5e 60%, #3e4545 60%, #3e4545 100%);
+@green: #23b670;
+@yellow: #f2ca0e;
+@red: #e95e4f;
+@blue: #258cc0;
+@black: #575e5e;
+@margin-left-pagination: 120px;
+@border-radius: 3px;
+@shadow-bottom: 0 6px 4px -4px rgba(0, 0, 0, .2);
+
+.pagination {
+  margin-left: 30px;
+  display: inline-block;
+}
+
+.pagination a {
+  font-family: @sans-serif;
+  border-radius: @border-radius;
+  color: black;
+  float: left;
+  padding: 4px 8px;
+  text-decoration: none;
+  transition: background-color .3s;
+  border: 1px solid #ddd;
+  margin: 0 4px;
+}
+
+.pagination a.active {
+  background-color: #23b670;
+  color: white;
+  &.pagination--yellow {
+    background-color: #f2ca0e;
+  }
+  &.pagination--red {
+    background-color: #e95e4f;
+  }
+  &.pagination--blue {
+    background-color: #258cc0;
+  }
+  &.pagination--green1 {
+    background-image: @green-gradient;
+  }
+  &.pagination--yellow1 {
+    background-image: @yellow-gradient;
+  }
+  &.pagination--red1 {
+    background-image: @red-gradient;
+  }
+  &.pagination--blue1 {
+    background-image: @blue-gradient;
+  }
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.ser {
+  background-color: #cacfd2;
+}
+
+.mar {
+  margin-top: 20px;
+  margin-left: @margin-left-pagination;
+}
+
+.pagination1 {
+  box-shadow: @shadow-bottom;
+}
+
+.gradient {
+  background-image: linear-gradient(#f9fafd, #e7ebed);
+}

@@ -1,0 +1,78 @@
+@colorGreen: green;
+@colorText: white;
+@widthButtons: 200px;
+@heightButtons: 40px;
+@displayInline: flex;
+@textCenter: center;
+@margin-left: 100px;
+@sans-serif: sans-serif;
+@margin-left-btn: 50px;
+@green-gradient: linear-gradient(to bottom, #23b670 60%, #239d57 60%, #239d57 100%);
+@yellow-gradient: linear-gradient(to bottom, #f2ca0e 60%, #f2b10e 60%, #f2b10e 100%);
+@red-gradient: linear-gradient(to bottom, #e95e4f 60%, #e94536 60%, #e94536 100%);
+@blue-gradient: linear-gradient(to bottom, #258cc0 60%, #2573a7 60%, #2573a7 100%);
+@black-gradient: linear-gradient(to bottom, #575e5e 60%, #3e4545 60%, #3e4545 100%);
+@green: #23b670;
+@yellow: #f2ca0e;
+@red: #e95e4f;
+@blue: #258cc0;
+@black: #575e5e;
+
+h1 {
+  text-align: @textCenter;
+  font-family: @sans-serif;
+}
+
+.div-1, .div-2, .div-3 {
+  display: @displayInline;
+  margin-left: @margin-left;
+}
+
+.btn {
+  text-align: @textCenter;
+  font-family: @sans-serif;
+  background-color: @colorGreen;
+  color: @colorText;
+  width: @widthButtons;
+  height: @heightButtons;
+  margin-left: 50px;
+  border-radius: 10px;
+  padding-top: 25px;
+  margin-bottom: 30px;
+  &--green {
+    background-image: @green-gradient;
+  }
+  &--yellow {
+    background-image: @yellow-gradient;
+  }
+  &--red {
+    background-image: @red-gradient;
+  }
+  &--blue {
+    background-image: @blue-gradient;
+  }
+  &--black {
+    background-image: @black-gradient;
+  }
+  &--shadow {
+    box-shadow: 0 0 10px rgba(0,0,0,0.9);
+  }
+  &--green-3 {
+    background-color: @green;
+  }
+  &--yellow-3 {
+    background-color: @yellow;
+  }
+  &--red-3 {
+    background-color: @red;
+  }
+  &--blue-3 {
+    background-color: @blue;
+  }
+  &--black-3 {
+    background-color: @black;
+  }
+}
+
+
+

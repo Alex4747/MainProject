@@ -1,0 +1,66 @@
+.grid-wrapper {
+    display: grid;
+    background-color: #324257;
+    grid-template-columns: repeat(11, 1fr);
+    grid-template-rows: 50px 50px 50px 50px 50px;
+    grid-template-areas:
+            "h h h h h h h h h h h"
+            "h h h h h h h h h h h"
+            "a a a a a o o o t t t"
+            "a a a a a th th th th th th"
+            "a a a a a th th th th th th"
+            "a a a a a th th th th th th"
+            "a a a a a th th th th th th"
+            "a a a a a th th th th th th"
+            "a a a a a for for fi fi si si"
+            "f f f f f f f f f f f"
+            "f f f f f f f f f f f";
+}
+
+.grid-item {
+    color: white;
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+    padding: 50px;
+}
+
+.header {
+    grid-area: h;
+    background-color: #ea4a6f;
+}
+.aside {
+    grid-area: a;
+    background-color: #532230;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.one {
+    grid-area: o;
+    background-color: #69d3e8;
+}
+.two {
+    grid-area: t;
+    background-color: #a8dcdc;
+}
+.three {
+    grid-area: th;
+    background-color: #596a62;
+}
+.forth {
+    grid-area: for;
+    background-color: #f6c4c4;
+}
+.five {
+    grid-area: fi;
+    background-color: #f3872d;
+}
+.six {
+    grid-area: si;
+    background-color: #fa6900;
+}
+.footer {
+    grid-area: f;
+    background-color: #fdf300;
+}

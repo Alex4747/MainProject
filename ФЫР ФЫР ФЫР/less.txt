@@ -1,0 +1,32 @@
+		git bush
+npm install less -g
+
+lessc less/probka234.less css/probka234.css
+
+
+
+		примеры
+@colorRed: red;
+
+.mixin(@fontsize, @texttransform:lowercase) {
+  font-size: @fontsize;
+  text-transform: @texttransform;
+}
+.h1 {
+  color: @colorRed;
+}
+
+.h2 {
+  .h1;
+  .mixin(50px);
+  &--green{
+    color: green;
+  }
+}
+
+@import "import.less";
+
+		запуск автоматически
+npm install less -g
+gulp less
+gulp watch:less

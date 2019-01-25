@@ -1,0 +1,35 @@
+* {
+    mamrgin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    margin: 0 auto;
+}
+
+fieldset {
+    border: none;
+    margin-bottom: 10px;
+}
+
+.form {
+    width: 300px;
+    border: 1px solid ;
+    padding: 10px;
+    text-align: center;
+    background: #eee;
+    margin: 50px auto;
+}
+
+label {
+    display: block;
+}
+
+.submit-btn {
+    width: 100%;
+}
+
+.error {
+    border: red;
+}

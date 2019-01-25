@@ -1,0 +1,63 @@
+						всплывающее меню
+ <div class="main-box">
+  <div class="mini-box">
+   <div class="box">
+
+   </div>
+  </div>
+ </div>
+
+ <div class="relet">
+  <div class="parant">
+   <div class="child">
+    <div class="bord">
+   <span>
+   sometextsometextsometext
+   sometextsometextsometext
+   sometextsometextsometext
+   </span>
+    </div>
+   </div>
+  </div>
+ </div>
+
+.parant {
+    background-image: url(../images/Ikaros.png);
+    width: 42px;
+    height: 44px;
+    position: fixed;
+    cursor: pointer;
+    right: 10px;
+    top: 10px;
+}
+.child {
+    background-color: #B8B8B8;
+    height: 100%;
+    width: 23%;
+    position: fixed;
+    display: table;
+    top: 0;
+    right: -100%;
+    transition: right 0.5s;
+
+}
+.bord {
+    background-color: #4F4F4F;
+    position: absolute;
+    top: 25%;
+    right: 23%;
+    border: 1px solid #4F4F4F;
+    border-radius: 50%;
+    vertical-align: middle;
+    height: 25%;
+    width: 50%;
+}
+span {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    height: 400px;
+}
+.parant:hover .child {
+    right: 0;
+}

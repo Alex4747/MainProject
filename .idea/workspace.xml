@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1d00090-59dd-4bf5-8c82-65d18e7cf6ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/secondBranch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1700879190">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="73" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.17" value="4" />
+          <entry key="project.open.time.18" value="3" />
+          <entry key="project.open.time.19" value="9" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="3" />
+          <entry key="project.open.time.21" value="7" />
+          <entry key="project.open.time.22" value="10" />
+          <entry key="project.open.time.23" value="5" />
+          <entry key="project.open.time.24" value="4" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="4" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.44" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.opened" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="89" />
+          <entry key="file" value="1" />
+          <entry key="html" value="120" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="10" />
+          <entry key="less" value="31" />
+          <entry key="psd" value="1" />
+          <entry key="rnc" value="2" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="89" />
+          <entry key="HTML" value="120" />
+          <entry key="Image" value="2" />
+          <entry key="JavaScript" value="10" />
+          <entry key="Less" value="31" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="RNG Compact" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="14484" />
+          <entry key="dummy" value="1" />
+          <entry key="html" value="11525" />
+          <entry key="js" value="14904" />
+          <entry key="less" value="4358" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="14484" />
+          <entry key="HTML" value="11525" />
+          <entry key="JavaScript" value="14904" />
+          <entry key="Less" value="4358" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/propchinskiy.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/propchinskiy.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javascript/propchinskiy.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="623">
+              <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>circl</find>
+      <find>p-img</find>
+      <find>m</find>
+      <find>section-</find>
+      <find>section-h2</find>
+      <find>header</find>
+      <find>bet</find>
+      <find>lig</find>
+      <find>wrapper-</find>
+      <find>wrapper</find>
+      <find>vh</find>
+      <find>main</find>
+      <find>wra</find>
+      <find>#e3e3e3</find>
+      <find>right-top-p</find>
+      <find>section-first-menu</find>
+      <find>s-fo-hei</find>
+      <find>s-fo-heig</find>
+      <find>sectio</find>
+      <find>section-secon</find>
+      <find>section-thi</find>
+      <find>section-f</find>
+      <find>s-fo-</find>
+      <find>s-fo-he</find>
+      <find>\.grid\-wrapper \{\n    display\: grid\;\n    grid\-template\-columns\: 1fr 1fr\;\n    grid\-template\-rows\: 1fr 1fr 1fr\;\n\}</find>
+      <find>sti</find>
+      <find>section</find>
+      <find>footer</find>
+      <find>z-in</find>
+      <find>pro</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/lab1.3.8.css" />
+        <option value="$PROJECT_DIR$/less/import.less" />
+        <option value="$PROJECT_DIR$/less/probks234.less" />
+        <option value="$PROJECT_DIR$/checkbox.html" />
+        <option value="$PROJECT_DIR$/css/probka234.css" />
+        <option value="$USER_HOME$/Desktop/gulpfile.js" />
+        <option value="$PROJECT_DIR$/css/probks234.css" />
+        <option value="$PROJECT_DIR$/less/checkbox.less" />
+        <option value="$PROJECT_DIR$/less/buttons.less" />
+        <option value="$PROJECT_DIR$/less/pagination.less" />
+        <option value="$PROJECT_DIR$/html/probka234.html" />
+        <option value="$PROJECT_DIR$/less/tabs.less" />
+        <option value="$PROJECT_DIR$/html/checkbox.html" />
+        <option value="$PROJECT_DIR$/css/checkbox.css" />
+        <option value="$USER_HOME$/Downloads/style.css" />
+        <option value="$PROJECT_DIR$/css/psd.css" />
+        <option value="$PROJECT_DIR$/html/psd.html" />
+        <option value="$USER_HOME$/Desktop/psd.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/html/bootstrap.html" />
+        <option value="$PROJECT_DIR$/html/bootstrap3.html" />
+        <option value="$PROJECT_DIR$/css/psd-2.css" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/html/pzd-2.html" />
+        <option value="$PROJECT_DIR$/less/pzd-2.less" />
+        <option value="$PROJECT_DIR$/css/pzd-2.css" />
+        <option value="$PROJECT_DIR$/HTML-psd/psd.html" />
+        <option value="$PROJECT_DIR$/HTML-psd/pzd-2.html" />
+        <option value="$USER_HOME$/Desktop/pzd-2.css" />
+        <option value="$USER_HOME$/Desktop/pzd-2.html" />
+        <option value="$PROJECT_DIR$/CSS-psd/pzd-3.css" />
+        <option value="$USER_HOME$/Desktop/psd-3.html" />
+        <option value="$PROJECT_DIR$/HTML-psd/psd-3.html" />
+        <option value="$PROJECT_DIR$/html/bootstrap-2.html" />
+        <option value="$PROJECT_DIR$/html/always.html" />
+        <option value="$PROJECT_DIR$/html/psd-5.html" />
+        <option value="$PROJECT_DIR$/css/always.css" />
+        <option value="$PROJECT_DIR$/css/propchinskiy.html" />
+        <option value="$PROJECT_DIR$/HTML-psd/psd-5.html" />
+        <option value="$PROJECT_DIR$/HTML-psd/grid.html" />
+        <option value="$PROJECT_DIR$/html/grid.html" />
+        <option value="$PROJECT_DIR$/css/grid.css" />
+        <option value="$PROJECT_DIR$/CSS-psd/psd-5.css" />
+        <option value="$PROJECT_DIR$/html/propchinskiy.js" />
+        <option value="$PROJECT_DIR$/html/work.html" />
+        <option value="$PROJECT_DIR$/html/psd-work.html" />
+        <option value="$PROJECT_DIR$/HTML-psd/psd-work.html" />
+        <option value="$PROJECT_DIR$/CSS-psd/psd-work.css" />
+        <option value="$PROJECT_DIR$/css/propchinskiy.css" />
+        <option value="$PROJECT_DIR$/javascript/propchinskiy.js" />
+        <option value="$PROJECT_DIR$/html/propchinskiy.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-220" />
+    <option name="y" value="-10" />
+    <option name="width" value="1355" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML-psd" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MainProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MainProject" type="462c0819:PsiDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MainProject\javascript" />
+      <recent name="D:\MainProject\HTML-psd" />
+      <recent name="D:\MainProject\html" />
+      <recent name="D:\MainProject\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.propchinskiy.js">
+    <configuration name="left.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/MainProject/html/left.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="propchinskiy.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="propchinskiy.js" working-dir="$PROJECT_DIR$/javascript">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.left.html" />
+      <item itemvalue="Node.js.propchinskiy.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.propchinskiy.js" />
+        <item itemvalue="JavaScript Debug.left.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1d00090-59dd-4bf5-8c82-65d18e7cf6ce" name="Default Changelist" comment="" />
+      <created>1540880528568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540880528568</updated>
+      <workItem from="1540880531577" duration="181000" />
+      <workItem from="1540880744712" duration="1310000" />
+      <workItem from="1540918162778" duration="3385000" />
+      <workItem from="1540963873242" duration="14486000" />
+      <workItem from="1541062761276" duration="7024000" />
+      <workItem from="1541089299718" duration="6493000" />
+      <workItem from="1541162059741" duration="3891000" />
+      <workItem from="1541177604824" duration="6801000" />
+      <workItem from="1541188566708" duration="449000" />
+      <workItem from="1541607929004" duration="610000" />
+      <workItem from="1541668296712" duration="224000" />
+      <workItem from="1541760750056" duration="20104000" />
+      <workItem from="1541794011876" duration="448000" />
+      <workItem from="1541842880167" duration="17569000" />
+      <workItem from="1541883495475" duration="3210000" />
+      <workItem from="1541919460601" duration="5018000" />
+      <workItem from="1541955490860" duration="12217000" />
+      <workItem from="1542022524428" duration="28330000" />
+      <workItem from="1542110641580" duration="1598000" />
+      <workItem from="1542116515537" duration="494000" />
+      <workItem from="1542127690859" duration="2925000" />
+      <workItem from="1542137746637" duration="487000" />
+      <workItem from="1542182353322" duration="3582000" />
+      <workItem from="1542302849426" duration="140000" />
+      <workItem from="1542389594091" duration="5030000" />
+      <workItem from="1542451316929" duration="14546000" />
+      <workItem from="1542560710228" duration="12132000" />
+      <workItem from="1542637868298" duration="6589000" />
+      <workItem from="1542662367500" duration="695000" />
+      <workItem from="1542704607083" duration="9484000" />
+      <workItem from="1542720004991" duration="11646000" />
+      <workItem from="1542752424295" duration="84000" />
+      <workItem from="1542828726090" duration="25272000" />
+      <workItem from="1542977755001" duration="2145000" />
+      <workItem from="1542993441219" duration="2789000" />
+      <workItem from="1543047933191" duration="1432000" />
+      <workItem from="1543076318950" duration="16575000" />
+      <workItem from="1543132788026" duration="1209000" />
+      <workItem from="1543136201858" duration="11172000" />
+      <workItem from="1543255173831" duration="6807000" />
+      <workItem from="1543304229895" duration="789000" />
+      <workItem from="1543338293669" duration="7160000" />
+      <workItem from="1543347446373" duration="1204000" />
+      <workItem from="1543429233744" duration="5615000" />
+      <workItem from="1543511464569" duration="1655000" />
+      <workItem from="1543596605218" duration="5206000" />
+      <workItem from="1543748522220" duration="3906000" />
+      <workItem from="1543913685786" duration="1779000" />
+      <workItem from="1543943059714" duration="7091000" />
+      <workItem from="1544026459606" duration="679000" />
+      <workItem from="1544202384772" duration="8201000" />
+      <workItem from="1544267909302" duration="9380000" />
+      <workItem from="1544306850525" duration="3135000" />
+      <workItem from="1544355474489" duration="221000" />
+      <workItem from="1544481884461" duration="279000" />
+      <workItem from="1544533887165" duration="757000" />
+      <workItem from="1544548898083" duration="6483000" />
+      <workItem from="1544556155531" duration="484000" />
+      <workItem from="1544637766540" duration="18280000" />
+      <workItem from="1544806866434" duration="8871000" />
+      <workItem from="1544883500880" duration="9663000" />
+      <workItem from="1545063506764" duration="2368000" />
+      <workItem from="1545153392636" duration="5210000" />
+      <workItem from="1545413643231" duration="4528000" />
+      <workItem from="1545852293959" duration="694000" />
+      <workItem from="1546339576151" duration="81000" />
+      <workItem from="1546967046582" duration="2015000" />
+      <workItem from="1547124418609" duration="3036000" />
+      <workItem from="1547225273060" duration="3196000" />
+      <workItem from="1547571746677" duration="8502000" />
+      <workItem from="1547811730746" duration="15068000" />
+      <workItem from="1548105099036" duration="126000" />
+      <workItem from="1548162404888" duration="13629000" />
+      <workItem from="1548405125095" duration="3279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="431153000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13681428" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13681428" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32970452" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970452" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32970452" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32765958" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/style.css" />
+    <entry file="file://$PROJECT_DIR$/html/checkbox.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/checkbox.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="15" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/psd.html" />
+    <entry file="file://$PROJECT_DIR$/html/lab1.3.7.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/psd.css" />
+    <entry file="file://$PROJECT_DIR$/images/151902421715832f0d19aa0f034fc55cdba17ecf10d.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bootstrap.html" />
+    <entry file="file://$PROJECT_DIR$/html/psd.html" />
+    <entry file="file://$PROJECT_DIR$/less/probks234.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/pagination.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/psd-2.css" />
+    <entry file="file://$PROJECT_DIR$/less/tabs.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/pzd-2.html" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/pzd-2.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="197" column="16" selection-start-line="197" selection-start-column="16" selection-end-line="197" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/pzd-2.css" />
+    <entry file="file://$PROJECT_DIR$/CSS-psd/psd.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/pzd-2.css" />
+    <entry file="file://$USER_HOME$/Desktop/pzd-2.html" />
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS-psd/pzd-2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1910">
+          <caret line="73" column="14" lean-forward="true" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/psd-3.html" />
+    <entry file="file://$PROJECT_DIR$/html/bootstrap-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/yargs/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/for-own/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/bootstrap3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="120" selection-start-line="9" selection-start-column="120" selection-end-line="9" selection-end-column="120" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="127" column="18" selection-start-line="127" selection-start-column="18" selection-end-line="127" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS-psd/pzd-3.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="221" column="21" lean-forward="true" selection-start-line="221" selection-start-column="21" selection-end-line="221" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/probka234.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="69" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/probks234.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="192" column="1" selection-start-line="192" selection-start-column="1" selection-end-line="192" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/always.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="135" column="22" lean-forward="true" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/always.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="68" lean-forward="true" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/grid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/work.html" />
+    <entry file="file://$PROJECT_DIR$/CSS-psd/psd-5.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-psd/psd-work.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="58" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS-psd/psd-work.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/file">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/lab1.3.8.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/psd-макеты/psd-3.psd">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/tables.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3672">
+          <caret line="216" column="16" selection-start-line="216" selection-start-column="16" selection-end-line="216" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-psd/pzd-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="46" lean-forward="true" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-psd/psd-5.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="92" column="35" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-psd/psd-3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="95" column="31" selection-start-line="95" selection-start-column="31" selection-end-line="95" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTML-psd/psd.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/propchinskiy.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javascript/propchinskiy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="623">
+          <caret line="117" column="2" selection-start-line="117" selection-start-column="2" selection-end-line="117" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/propchinskiy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
